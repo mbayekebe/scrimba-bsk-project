@@ -2,7 +2,7 @@ let count1El = document.getElementById("count1-el")
 let count2El = document.getElementById("count2-el")
 let count1 = 0
 let count2 = 0
-
+//=====================================
 function increment11() {
     count1 += 1
     count1El.textContent = count1
